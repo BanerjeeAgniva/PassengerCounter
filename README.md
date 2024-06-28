@@ -1,0 +1,1 @@
+This project is a simple counter application that allows users to increment a count and save the previous counts, displaying them on the web page. It uses HTML for structure, CSS for styling, and JavaScript for interactive functionality.
